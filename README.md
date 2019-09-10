@@ -1,2 +1,3 @@
 # Proyecto-EL41063-
-Proyecto
+Proyecto 2: Estimación de mapas de oclusión en redes neuronales
+Integrantes: Pablo Martín y Thomas Bate
